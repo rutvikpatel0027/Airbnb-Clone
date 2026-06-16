@@ -1,6 +1,6 @@
 # Airbnb Clone Console Application
 
-A premium, high-efficiency React and Tailwind CSS Airbnb clone complete with client search feeds, booking managers, and a live isolated Admin Dashboard Console.
+A premium, high-efficiency React and Tailwind CSS Airbnb clone complete with client search feeds, booking places, and a live isolated Admin Dashboard Console.
 
 ---
 
